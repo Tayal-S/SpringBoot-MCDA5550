@@ -22,7 +22,7 @@ Overview of the project Structure:
 
 **repository**: This package contains the interfaces for the repository classes that handle database operations for the entities.
 
-**service**: This package contains the service classes that provide business logic for the application.
+**service**: This package contains the service classes that provides logic for the application.
 
 **application.properties**: This file contains the application configuration, such as the database connection details.
 
